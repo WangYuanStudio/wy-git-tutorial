@@ -1,4 +1,4 @@
 # Summary
 
-* [Git](README.md)
+* [Git 简介](README.md)
 
