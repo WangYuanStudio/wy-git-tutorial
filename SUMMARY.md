@@ -1,5 +1,5 @@
 # Summary
 
 * [README](README.md)
-* [Git简介](intro)
+* [Git简介](intro.md)
 
